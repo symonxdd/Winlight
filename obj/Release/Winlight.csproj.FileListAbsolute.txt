@@ -1,0 +1,14 @@
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\bin\Release\Winlight.exe.config
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\bin\Release\Winlight.exe
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\bin\Release\Winlight.pdb
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\MainWindow.g.cs
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\App.g.cs
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight_MarkupCompile.cache
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight_MarkupCompile.lref
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\MainWindow.baml
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight.g.resources
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight.Properties.Resources.resources
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight.csproj.GenerateResource.cache
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight.csproj.CoreCompileInputs.cache
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight.exe
+C:\Users\Symon\Documents\Visual Studio 2019\Projects\Winlight\obj\Release\Winlight.pdb
