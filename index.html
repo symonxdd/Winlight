@@ -1,1 +1,58 @@
-<h1>Testing this website thing</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Winlight</title>
+<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+<style>
+* {
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+	font-family: 'Nunito', sans-serif;
+}
+html {
+	background-color: #111111;
+}
+::selection {
+	background: #DA008E;
+}
+#program_image{
+	position: absolute;
+	left: 50%;
+	top: 35%;
+	transform: translateX(-50%) translateY(-50%);
+}
+#title{
+	position: absolute;
+	top: 14%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size:4em;
+}
+#dl_button{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);	
+	
+	padding: 4px 10px 4px 10px;
+	border: 2px white solid;
+	transition: all 0.2s ease;		
+}
+#dl_button:hover{
+	border: 2px #B6CE23 solid;
+	border-radius: 5px;
+}
+a {
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<div id="program_image"><img src="https://raw.githubusercontent.com/symonxdd/Winlight/master/icon.ico" alt="Winlight icon"></></div>
+<p><a href="https://github.com/symonxdd/Winlight/releases/download/v1.0/Winlight.exe"><div id="dl_button">download</div></a></p>
+<div id="title">winlight</div>
+</body>
+</html>
